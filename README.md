@@ -71,4 +71,4 @@ utilizando o **NotebookLM** como ferramenta principal de organização e aprendi
 
 ## 🎴 Flashcards - Alan Turing e IA
 
-- [Flashcards - Alan Turing e IA]((https://github.com/GustavoSchiavinato/Acelere_sua_Aprendizagem_com_IA_Explore_o_Poder_do_NotebookLM/blob/main/flashcards_turing.md)
+- [Flashcards - Alan Turing e IA](https://github.com/GustavoSchiavinato/Acelere_sua_Aprendizagem_com_IA_Explore_o_Poder_do_NotebookLM/blob/main/flashcards_turing.md)
