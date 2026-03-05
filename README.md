@@ -1,5 +1,4 @@
-# Acelere_sua_Aprendizagem_com_IA_Explore_o_Poder_do_NotebookLM
-Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM
+# Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM
 
 
 # 🧠 Segundo Cérebro - Alan Turing e IA
@@ -67,4 +66,9 @@ utilizando o **NotebookLM** como ferramenta principal de organização e aprendi
 ## 🚀 Próximos Passos
 - Revisar vídeos e extrair citações importantes.  
 - Criar flashcards com conceitos-chave.  
-- Relacionar os ensinamentos de Turing com ferramentas modernas de IA.  
+- Relacionar os ensinamentos de Turing com ferramentas modernas de IA.
+
+
+## 🎴 Flashcards - Alan Turing e IA
+
+- [Flashcards - Alan Turing e IA]([https://www.youtube.com/watch?v=7ppOji3nuac](https://github.com/GustavoSchiavinato/Acelere_sua_Aprendizagem_com_IA_Explore_o_Poder_do_NotebookLM/blob/main/flashcards_turing.md))
