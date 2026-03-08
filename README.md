@@ -55,24 +55,23 @@ utilizando o **NotebookLM** como ferramenta principal de organização e aprendi
 
 ---
 
+## 🚀 Próximos Passos
+- Revisar vídeos e extrair citações importantes.  
+- Criar flashcards com conceitos-chave.  
+- Relacionar os ensinamentos de Turing com ferramentas modernas de IA.
+  
+---
+
 ## 📊 Resultados Esperados
 - **Memória digital estruturada:** um “segundo cérebro” que guarda e conecta ideias.  
 - **Aprendizado acelerado:** uso do NotebookLM para resumir e relacionar conteúdos.  
 - **Aplicação prática:** transformar teoria em insights aplicáveis no dia a dia.  
 - **Reflexão crítica:** compreender como os conceitos de Turing moldam a IA atual.  
 
----
-
-## 🚀 Próximos Passos
-- Revisar vídeos e extrair citações importantes.  
-- Criar flashcards com conceitos-chave.  
-- Relacionar os ensinamentos de Turing com ferramentas modernas de IA.
-
-
-## 🎴 Flashcards - Alan Turing e IA
+### 🎴 Flashcards - Alan Turing e IA
 
 - [Flashcards - Alan Turing e IA](https://github.com/GustavoSchiavinato/Acelere_sua_Aprendizagem_com_IA_Explore_o_Poder_do_NotebookLM/blob/main/flashcards_turing.md)
 
 
-## 📖 Guia de Estudo - Alan Turing e IA
+### 📖 Guia de Estudo - Alan Turing e IA
 - [Guia de Estudo - Alan Turing e IA](https://github.com/GustavoSchiavinato/Acelere_sua_Aprendizagem_com_IA_Explore_o_Poder_do_NotebookLM/blob/main/study_guide_turng.md)
